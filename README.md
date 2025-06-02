@@ -2,6 +2,20 @@
 
 A Flutter application for managing user data with features for viewing, creating, updating, and deleting user information.
 
+## Screenshots
+
+<div align="center">
+  <div style="display: flex; flex-direction: row; flex-wrap: wrap; justify-content: center; gap: 10px;">
+    <img src="assets/screenshots/screen1.jpg" width="250" alt="Home Screen"/>
+    <img src="assets/screenshots/screen2.jpg" width="250" alt="User Details"/>
+    <img src="assets/screenshots/screen3.jpg" width="250" alt="Dark Mode"/>
+    <img src="assets/screenshots/screen1B.jpg" width="250" alt="Dark Mode"/>
+    <img src="assets/screenshots/screen2B.jpg" width="250" alt="Dark Mode"/>
+    <img src="assets/screenshots/screen3B.jpg" width="250" alt="Dark Mode"/>
+    <img src="assets/screenshots/screen4B.jpg" width="250" alt="Dark Mode"/>
+  </div>
+</div>
+
 ## Project Overview
 
 This Flutter application demonstrates best practices in mobile app development, including:
