@@ -9,13 +9,15 @@ A Flutter application for managing user data with features for viewing, creating
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin-bottom: 20px;">
     <img src="assets/screenshots/screen1.jpg" width="250" alt="User List - Light Mode"/>
     <img src="assets/screenshots/screen2.jpg" width="250" alt="User Details - Light Mode"/>
+    <img src="assets/screenshots/screen2_2.jpg" width="250" alt="User Details - Light Mode"/>
     <img src="assets/screenshots/screen3.jpg" width="250" alt="User Profile - Light Mode"/>
   </div>
 
   <h3>Dark Mode</h3>
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
     <img src="assets/screenshots/screen1B.jpg" width="250" alt="User List - Dark Mode"/>
-    <img src="assets/screenshots/screen2B.jpg" width="250" alt="User Profile - Dark Mode"/>
+    <img src="assets/screenshots/screen2B1.jpg" width="250" alt="User Profile - Dark Mode"/>
+    <img src="assets/screenshots/screen2B2.jpg" width="250" alt="User Profile - Dark Mode"/>
     <img src="assets/screenshots/screen3B.jpg" width="250" alt="User Posts - Dark Mode"/>
     <img src="assets/screenshots/screen4B.jpg" width="250" alt="User Todos - Dark Mode"/>
   </div>
